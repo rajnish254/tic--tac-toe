@@ -9,7 +9,7 @@ This is a fully responsive simple tic-tac-toe game written in HTML, CSS, and Jav
     <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2965f1?style=flat&logo=css3&logoColor=white"/>
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat&logo=javascript&logoColor=white"/>
     <img alt="Open Source? Yes!" src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github"/>
-    <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/bc81f897-872e-4989-99ee-216a3b02569b/deploy-status"/>
+    
 
 </p>
 
@@ -74,7 +74,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
   </a>
 </p>
 
-This project was created for educational purposes and for personal and open-source use.
+
 
 
 <a href="https://www.buymeacoffee.com/awu2303" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
